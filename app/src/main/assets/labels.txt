@@ -1,0 +1,13 @@
+potato,potato-medium
+papaya,papaya-raw-fruit
+dal,dal-1-cup
+apple,1-medium-3-dia-apple
+chapati,chapati-roti-medium
+jalebi,jalebi
+banana,bananas-raw-1-small-6-to-6-7-8-long
+cauliflower,1-medium-head-cauliflower
+chole,chole-masala
+rice,rice-cooked-regular
+orange,orange
+eggplant,cooked-eggplant-1-medium-eggplant
+onion,onions-cooked-medium

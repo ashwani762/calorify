@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <PreferenceCategory android:title="Information">
+        <EditTextPreference android:title="Weight"
+            android:key="weight"
+            android:numeric="integer"
+            android:summary="Please provide your weight"></EditTextPreference>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Developer">
+        <EditTextPreference android:title="Server URL"
+        android:key="server_url"
+        android:summary="Please provide server detail"></EditTextPreference>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="About">
+        <Preference android:title="About"
+            android:key="about"
+            android:summary="Know more about us"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Version">
+        <Preference android:title="Version"
+            android:key="version"
+            android:summary="Application version 1.1c"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>
